@@ -15,11 +15,6 @@ Sample generic website terms and conditions (http://www.freenetlaw.com/free-webs
 
 This page (http://www.nngroup.com/articles/how-users-read-on-the-web/) is the reason for some of the features implemented in this project.
 
-The page started with this food for thought:
-===
-# How Users Read on the Web
-Summary: They don't. People rarely read Web pages word by word; instead, they scan the page, picking out individual words and sentences.
-===
 
 # How to view the test page
 
