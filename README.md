@@ -7,10 +7,19 @@ When somebody wants to use the services of a website, most people just assume th
 
 # Tools, resources used
 
-This project uses a free Bootstrap template (Corlate) for the demo.
+This project uses a free Bootstrap template (Corlate - http://shapebootstrap.net/item/corlate-free-responsive-business-html-template/) for the demo.
 
 The jQuery Text Zoom (http://www.jqueryscript.net/demo/jQuery-Plugin-For-On-Page-Text-Control-Plugin-Text-Zoom/examples/) for the text zoom in/out.
 
+Sample generic website terms and conditions (http://www.freenetlaw.com/free-website-terms-and-conditions/website-terms-and-conditions.doc).
+
+This page (http://www.nngroup.com/articles/how-users-read-on-the-web/) is the reason for some of the features implemented in this project.
+
+The page started with this food for thought:
+===
+# How Users Read on the Web
+Summary: They don't. People rarely read Web pages word by word; instead, they scan the page, picking out individual words and sentences.
+===
 
 # How to view the test page
 
