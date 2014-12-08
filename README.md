@@ -1,4 +1,4 @@
-terms
-=====
+# terms
+========
 
 Reading ToS, EULA, etc...
